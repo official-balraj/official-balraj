@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balraj Singh</h1>
 <h3 align="center">A passionate hands-on Engineering Manager from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=official-balraj" alt="official-balraj" /></a> </p>
-
 - 🔭 I’m currently working on **Drift (Project Management tool)**
 
 - 🌱 I’m currently learning **Azure cloud**
