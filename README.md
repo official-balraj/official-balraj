@@ -1,13 +1,20 @@
+# 🏄‍♂️ Balraj Singh
 
-- 🔭 I’m currently working on **Drift (Project Management tool)**
+**`Engineering Manager | Software Craftsman | Tech Enthusiast`**
 
-- 🌱 I’m currently learning **Azure cloud**
+Technical Engineering Manager with 10+ years of experience in development and leadership across HCM Suite, SaaS, Large-Scale-Appplications, SPA, Mobile, and Responsive UI/UX. I leverage my technical and leadership skills to foster innovation, quality, and efficiency, creating high-performance products & teams that excel in a collaborative environment.
 
-- 📝 Know about my experiences [https://www.linkedin.com/in/balrajsingh-career/](https://www.linkedin.com/in/balrajsingh-career/)
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="Linked in profile" title="LinkedIn" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=LINKEDIN&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="portfolio-link">
+         <img alt="portfolio" title="Porfolio" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/official-balraj?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/official-balraj?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-- 💬 Ask me about **React, TS, MUI, Storybook HTML, CSS, JS, Bootstrap Rest API, Spring boot, Java, UI/UX, SPA, PWA, Responsive Design system, Figma, Azure Micro-frontend & Microservices, Team leadership & management Project & People management Proactive communication**
-
-- 📫 How to reach me **official.balraj@gmail.com**
 
 - 📄 Find my resume here [https://drive.google.com/file/d/133CB0Gh0teb2ZDiPsviRJZGZ2i7RL1D3/view?usp=sharing](https://drive.google.com/file/d/133CB0Gh0teb2ZDiPsviRJZGZ2i7RL1D3/view?usp=sharing)
 
