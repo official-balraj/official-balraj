@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Balraj Singh</h1>
-<h3 align="center">A passionate hands-on Engineering Manager from India</h3>
 
 - 🔭 I’m currently working on **Drift (Project Management tool)**
 
