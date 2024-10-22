@@ -5,7 +5,7 @@
 Technical Engineering Manager with 10+ years of experience in development and leadership across HCM Suite, SaaS, Large-Scale-Appplications, SPA, Mobile, and Responsive UI/UX. I leverage my technical and leadership skills to foster innovation, quality, and efficiency, creating high-performance products & teams that excel in a collaborative environment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balrajsingh-career/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://official-balraj.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://balrajfolio.vercel.app/)
 [![CV](https://img.shields.io/badge/CV-32CD32?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/133CB0Gh0teb2ZDiPsviRJZGZ2i7RL1D3/view?usp=sharing)
 ![GitHub Views](https://komarev.com/ghpvc/?username=official-balraj&color=blue&style=for-the-badge)
 
